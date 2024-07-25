@@ -19,9 +19,7 @@ twitter: your_twitter_id
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+  I am a PhD student at ECE department at University of California, Los Angeles, supervised by professor <a href="https://www.iopticslab.seas.ucla.edu/people">Liang Gao</a>. I received M.S. degree in June 2021 in ECE at UCLA, where I worked in professor <a href="https://www.seas.ucla.edu/~mjarrahi/">Mona Jarrahi</a> 's lab. Prior to UCLA, I received B.S. degree in Optoelectronic Engineering at Huazhong Univerisity of Science and Technology, where I was introduced to the world of optical imaging.
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
