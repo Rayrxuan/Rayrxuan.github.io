@@ -12,7 +12,7 @@ abstract: >-
   Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
 # cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Your Name
+  - Your
   - James Wang
   - Some Other Name
   - John Doe
