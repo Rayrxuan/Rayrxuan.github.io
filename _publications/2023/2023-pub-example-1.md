@@ -1,17 +1,17 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
+title:          "Coded aperture snapshot hyperspectral light field tomography"
 date:           2023-01-05 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "Optics Express"
 pub_date:       "2023"
 abstract: >-
-  Photo by Thomas Renaud on Unsplash. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  We developed a novel two-stage cascaded compressed sensing scheme. By appropriately distributing the computation load to each stage, this method utilizes the compressibility of natural scenes in multiple domains, reducing the ill-posed nature of datacube recovery and achieving enhanced spatial resolution, suppressed aliasing artifacts, and improved spectral fidelity. Our approach efficiently records a five-dimensional (5D) plenoptic function in a single snapshot. 
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Ruixuan Zhao
+- Qi Cui
+- Zhaoqiang Wang
+- Liang Gao
 links:
-  Paper: https://www.cell.com
+  Paper: https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-22-37336&id=541008
 ---
