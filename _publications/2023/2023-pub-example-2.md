@@ -7,7 +7,7 @@ pub_date:       "2023"
 abstract: >-
   We demonstrated the performance of the system through various experiments, including imaging standard targets, utilizing an eye phantom, and conducting in vivo imaging of the human retina.
 
-cover:          /assets/images/covers/cover2.jpg
+cover:          /assets/images/covers/CASSI_1.jpg
 authors:
   - Ruixuan Zhao
   - Chengshuai Yang
