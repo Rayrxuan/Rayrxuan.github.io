@@ -14,8 +14,16 @@ cover:          /assets/images/covers/slim.jpg
 authors:
   - Zhaoqiang Wang
   - Ruixuan Zhao
-  - Some Other Name
-  - John Doe
+  - Daniel A Wagenaar
+  - Wenjun Kang
+  - Calvin Lee
+  - William Schmidt
+  - Aryan Pammar
+  - Enbo Zhu
+  - Gerard CL Wong
+  - Rongguang Liang
+  - Tzung Hsiai
+  - Liang Gao
 links:
   Paper: https://www.biorxiv.org/content/10.1101/2024.03.23.586416v1
   #Code: https://github.com/luost26/academic-homepage
