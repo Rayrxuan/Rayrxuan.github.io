@@ -1,6 +1,6 @@
 ---
 title:          "Coded aperture snapshot spectral imaging fundus camera"
-date:           2023-01-21 00:01:00 +0800
+date:           2023-01-01 00:01:00 +0800
 selected:       true
 pub:            "Scientific Reports"
 pub_date:       "2023"
