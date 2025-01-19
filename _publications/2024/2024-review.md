@@ -1,7 +1,7 @@
 ---
 title:          "Hyperspectral retinal imaging in Alzheimer’s disease and age-related macular degeneration: a review"
 date:           2024-10-12 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Acta Neuropathologica Communications"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
