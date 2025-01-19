@@ -10,6 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   In this review, we discuss recent advances in the field and outline the current bottlenecks and enabling technologies that could propel this field toward clinical translation.
+  cover:          /assets/images/covers/review.jpg
 authors:
   - Xiaoxi Du*
   - Jongchan Park*
