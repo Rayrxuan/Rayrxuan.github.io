@@ -1,0 +1,23 @@
+---
+title:          "Cascaded spectral light field tomography"
+date:           2024-08-12 00:01:00 +0800
+selected:       true
+pub:            "Optics Letters"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2024"
+
+abstract: >-
+  We present cascaded spectral light field tomography for multicolor imaging in three dimensions (3D). Building upon light field tomography, our method uses a Dove prism array and a cylindrical lens array to transform a 3D scene into one-dimensional (1D) projections. To further enhance the reconstructed image quality, we incorporate a rotating Dove prism to increase the number of projection angles and a scanning light sheet to sparsify the sample along the depth axis. The resulting 1D projections are then spectrally dispersed for parallel spectral measurements. We demonstrate the effectiveness of our system in both fluorescence and scattering microscopy applications.
+cover:          /assets/images/covers/slim.jpg
+authors:
+  - Qi Cui
+  - Ruixuan Zhao
+  - Zhaoqiang Wang
+  - Liang Gao
+links:
+  Paper: https://opg.optica.org/ol/abstract.cfm?uri=ol-49-17-4827
+  #Code: https://github.com/luost26/academic-homepage
+  #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+---
