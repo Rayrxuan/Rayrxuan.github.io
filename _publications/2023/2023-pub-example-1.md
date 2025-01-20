@@ -8,7 +8,7 @@ pub_date:       "2023"
 
 abstract: >-
   We develope a novel two-stage cascaded compressed sensing scheme. By appropriately distributing the computation load to each stage, this method utilizes the compressibility of natural scenes in multiple domains, reducing the ill-posed nature of datacube recovery and achieving enhanced spatial resolution, suppressed aliasing artifacts, and improved spectral fidelity. Our approach efficiently records a five-dimensional (5D) plenoptic function in a single snapshot. 
-cover:          /assets/images/covers/movie_export_3D_1.jpg
+cover:          /assets/images/covers/movie_export_3D_1.gif
 authors:
   - Ruixuan Zhao
   - Qi Cui
