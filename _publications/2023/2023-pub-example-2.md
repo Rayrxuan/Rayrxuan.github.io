@@ -5,7 +5,7 @@ selected:       true
 pub:            "Scientific Reports"
 pub_date:       "2023"
 abstract: >-
-  We demonstrated the performance of the system through various experiments, including imaging standard targets, utilizing an eye phantom, and conducting in vivo imaging of the human retina.
+  We develope a prototype coded-aperture snapshot spectral imaging (HSI) fundus camera designed for clinical retinal imaging applications, incorporating a robust deep learning-based reconstruction method. The snapshot HSI fundus camera was demonstrated in in vivo retinal autofluorescence imaging of patients with age-related macular degeneration (AMD). Beyond its utility for AMD, HSI has also proven effective in identifying spectral biomarkers associated with other neurodegenerative conditions.
 
 cover:          /assets/images/covers/CASSI_1.jpg
 authors:
