@@ -10,7 +10,7 @@ pub_date:       "2019"
 
 abstract: >-
   We experimentally demonstrate a simple approach to generate optical vortex (OV) beams using optical fibers. The main structure is realized by asymmetrically splicing a standard simple-mode fiber with a two-mode fiber (TMF). The asymmetrical fusion joint can partly convert input fundamental mode to higher-order fiber modes. The unconverted fundamental mode component can be eventually filtered out through adjusting the states of two polarization controllers (PCs) applied on the two fibers and one polarizer located behind the output end of the TMF. By adjusting the two PCs, one can also selectively generate LP modes or OV modes with ℓ = ±1. The relationship between offsets and conversion efficiency is measured and analyzed, which accords well with the simulation. Mode purity and working bandwidth are also measured in the experiment.
-# cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/OAM_1.jpg
 authors:
   - Zhe Xu
   - Ruixuan Zhao
