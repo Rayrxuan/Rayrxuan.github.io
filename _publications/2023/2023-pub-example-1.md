@@ -1,6 +1,6 @@
 ---
 title:          "Coded aperture snapshot hyperspectral light field tomography"
-date:           2023-01-05 00:01:00 +0800
+date:           2023-10-01 00:01:00 +0800
 selected:       true
 pub:            "Optics Express"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Editors Pick</span> <span class="badge badge-pill badge-publication badge-danger">Optica Image of the week</span>'
